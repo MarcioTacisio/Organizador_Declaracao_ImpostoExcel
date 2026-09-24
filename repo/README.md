@@ -23,7 +23,7 @@ Ao final do desafio, o Felipão sugeriu ir além. Adicionei então uma aba RESUM
 ├── images/
 │   └── (capturas de tela do projeto)
 └── planilha/
-    └── Organizador_de_Declaração_de_Imposto_de_Renda_DIO.xlsx
+    └── Organizador_de_Declaracao_de_Imposto_de_Renda_DIO.xlsx
 ```
 
 ## Créditos
